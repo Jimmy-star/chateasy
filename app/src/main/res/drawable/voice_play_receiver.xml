@@ -1,0 +1,23 @@
+<animation-list
+    xmlns:anroid="http://schemas.android.com/apk/res/android">
+
+    <item
+        anroid:drawable="@mipmap/receiver_voice_node_playing000"
+        anroid:duration="300">
+    </item>
+
+    <item
+        anroid:drawable="@mipmap/receiver_voice_node_playing001"
+        anroid:duration="300">
+    </item>
+
+    <item
+        anroid:drawable="@mipmap/receiver_voice_node_playing002"
+        anroid:duration="300">
+    </item>
+
+    <item
+        anroid:drawable="@mipmap/receiver_voice_node_playing003"
+        anroid:duration="300">
+    </item>
+</animation-list>

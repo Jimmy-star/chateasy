@@ -3,4 +3,42 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="light_gray_1">#e5e5e5</color>
+    <color name="light_gray_2">#f0f2f6</color>
+    <color name="light_gray_3">#fafafa</color>
+    <color name="light_gray_4">#f5f5f5</color>
+    <color name="light_gray_5">#f3f3f3</color>
+    <color name="light_gray_6">#aaaaaa</color>
+    <color name="light_gray_7">#f0f0f0</color>
+    <color name="light_gray_8">#666666</color>
+    <color name="light_gray_9">#f4f5f7</color>
+    <color name="light_gray_10">#bfbfbf</color>
+    <color name="light_gray_11">#f1f2f6</color>
+    <color name="light_gray_12">#333333</color>
+    <color name="middle_gray_1">#999999</color>
+    <color name="middle_gray_2">#818181</color>
+
+    <color name="dark_gray_1">#051b28</color>
+    <color name="dark_gray_2">#848689</color>
+    <color name="dark_gray_3">#252525</color>
+    <color name="dark_gray_4">#232326</color>
+    <color name="dark_gray_5">#f2f4f5</color>
+
+    <color name="click_bg">#d9d9d9</color>
+    <color name="light_blue1">#3097e6</color>
+    <color name="light_blue2">#503097e6</color>
+    <color name="light_blue3">#dcf4ff</color>
+    <color name="light_blue4">#84d4f9</color>
+    <color name="light_blue5">#45b1e3</color>
+    <color name="light_blue6">#3299e8</color>
+    <color name="light_blue7">#1597f2</color>
+
+    <color name="zz_divider">#e6e6e6</color>
+    <color name="zz_divider1">#dedede</color>
+
+    <color name="zz_half_transparent">#7f000000</color>
+
 </resources>
